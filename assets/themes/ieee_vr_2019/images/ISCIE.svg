@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<style type="text/css">
+.grid
+{
+	fill: none;
+	stroke: #005293;
+	stroke-width: 1;
+}
+.stroke
+{
+	fill: none;
+	stroke: #000000;
+	stroke-width: 80;
+	stroke-linecap:square;
+}
+.fill
+{
+	fill: #000000;
+	stroke: none;
+}
+</style>
+<g  transform="scale(0.22, -0.22)">
+<g transform="translate(0, -1000)">
+	<g>
+		<path class="stroke"
+			d="M 40,40 h 130"
+			/>
+		<path class="stroke"
+			d="M 105,40 v 420"
+			/>
+		<path class="stroke"
+			d="M 40,460 h 130"
+			/>
+	</g>
+</g>
+<g transform="translate(450, -1000)">
+	<g>
+		<path class="stroke"
+			d="M 670,890 C 600,935 510,960 420,960 285,960 95,875 95,770 95,620 250,565 370,520 490,475 685,435 685,275 685,125 470,40 310,40 220,40 120,70 50,115"
+			/>
+		<path class="stroke"
+			d="M 420,960 C 340,960 205,910 205,810 205,695 370,650 490,605 610,560 775,505 775,355 775,185 565,40 310,40"
+			/>
+		<path class="stroke"
+			d="M 420,960 C 285,960 40,875 40,680 40,505 190,430 310,385 430,340 585,317 585,200 585,100 420,40 310,40"
+			/>
+		<path class="fill"
+			d="M 420,960 C 285,960 95,875 95,770 95,620 250,565 370,520 490,475 685,435 685,275 685,125 470,40 310,40 420,40 585,100 585,200 585,317 310,385 430,340 190,430 40,680 40,505 40,875 420,960 285,960 Z"
+			/>
+	</g>
+</g>
+<g transform="translate(1400, -1000)">
+	<g>
+		<path class="stroke"
+			d="M 825.269119345812,825.269119345812 A 460,460 0 1,1 852.38044383473,204.317699544192"
+			/>
+		<path class="stroke" style="stroke-width: 40; stroke-linecap:butt"
+			d="M 220,889.871773792359 v -779.743547584717"
+			/>
+		<path class="fill"
+			d="M 220,889.871773792359 A 460,460 0 0,1 220,110.128226207641 Z"
+			/>
+		<path class="stroke" style="stroke-linecap:butt"
+			d="M 320,944.97190922574 v -889.943818451479"
+			/>
+	</g>
+</g>
+<g transform="translate(2430, -1000)">
+	<g>
+		<path class="stroke"
+			d="M 40,40 v 920 h 160 v -920 z"
+			/>
+		<path class="fill"
+			d="M 40,40 v 920 h 160 v -920 z"
+			/>
+		<path class="stroke"
+			d="M 320,40 v 920"
+			/>
+	</g>
+</g>
+<g transform="translate(3000, -1000)">
+	<g>
+		<path class="stroke"
+			d="M 100,40 v 420"
+			/>
+		<path class="stroke"
+			d="M 40,40 h 310 v 80"
+			/>
+		<path class="stroke"
+			d="M 100,260 h 150"
+			/>
+		<path class="stroke"
+			d="M 40,460 h 310 v -80"
+			/>
+	</g>
+</g>
+</g>
+</svg>
